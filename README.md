@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Arul 👋
+------------------------------
+[LinkedIn](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
+[Twitter](https://twitter.com/TArulmani)
+
+I am a doctoral researcher and a research fellow at Leibniz Institute for Preventinon Research and Epidemiology - BIPS. I research in the field of cancer epidemiology; to be precise I work on thyroid diseases and cancers and their trends in Germany. I mainly work with the data from the German health insurance claims database - German Pharmacoepidemiological Research Database (GePaRD). 
+
+
+
 
 <!--
 **arulmanit/arulmanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
