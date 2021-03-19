@@ -7,7 +7,7 @@
 
 
 
-I am a doctoral researcher and a research fellow at Leibniz Institute for Preventinon Research and Epidemiology - BIPS. I research in the field of cancer epidemiology; to be precise I work on thyroid diseases and cancers and their trends in Germany. I mainly work with the data from the German health insurance claims database - [German Pharmacoepidemiological Research Database (GePaRD)](https://www.bips-institut.de/en/research/research-infrastructures/gepard.html). Please feel free to reach out!
+I am a doctoral researcher and a research fellow at Leibniz Institute for Prevention Research and Epidemiology - BIPS. I research in the field of cancer epidemiology; to be precise I work on thyroid diseases and cancers and their trends in Germany. I mainly work with the data from the German health insurance claims database - [German Pharmacoepidemiological Research Database (GePaRD)](https://www.bips-institut.de/en/research/research-infrastructures/gepard.html). Please feel free to reach out!
 
 
 
