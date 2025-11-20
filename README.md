@@ -8,8 +8,8 @@ My research interests are cancer epidemiology, public health, and pharamacoepide
 
 I would be happy to open for collaboration and advance science. Feel free to reach out!
 
-[![Email Badge](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:arulmani.thiyagarajan@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:arulmani.thiyagarajan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
 
 
 
