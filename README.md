@@ -6,7 +6,7 @@ I am an Epidemiologist at IQVIA Germany, working with the Observational Studies 
 
 My research interests are cancer epidemiology, public health, and pharamacoepidemiology.
 
-I would be happy to open for collaboration and advance science. Feel free to reach out!
+I would be happy to open for collaboration and advance science. Feel free to reach out at arulmani.thiyagarajan@gmail.com!
 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:arulmani.thiyagarajan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
