@@ -2,16 +2,14 @@
 ------------------------------
 
 
-[![Email Badge](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:arulmani.thiyagarajan@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
-
-
-
 I am an Epidemiologist at IQVIA Germany, working with the Observational Studies team within the Epidemiology and Biostatistics unit.  I am also pursuing my doctoral studies at Leibniz Institute for Prevention Research and Epidemiology - BIPS. My PhD research focuses on thyroid disorders and their trends in Germany using the data from the German health insurance claims database - [German Pharmacoepidemiological Research Database (GePaRD)](https://www.bips-institut.de/en/research/research-infrastructures/gepard.html). 
 
 My research interests are cancer epidemiology, public health, and pharamacoepidemiology.
 
 I would be happy to open for collaboration and advance science. Feel free to reach out!
+
+[![Email Badge](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:arulmani.thiyagarajan@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arulmani-thiyagarajan-68b21673/)
 
 
 
