@@ -2,7 +2,7 @@
 ------------------------------
 
 
-I am an Epidemiologist at [IQVIA Germany] (https://www.iqvia.com/de-de/locations/germany/solutions/real-world-evidence/nicht-interventionelle-studien), working with the Observational Studies team within the Epidemiology and Biostatistics unit.  I am also pursuing my doctoral studies at Leibniz Institute for Prevention Research and Epidemiology - BIPS. My PhD research focuses on thyroid disorders and their trends in Germany using the data from the German health insurance claims database - [German Pharmacoepidemiological Research Database (GePaRD)](https://www.bips-institut.de/en/research/research-infrastructures/gepard.html). 
+I am an Epidemiologist at [IQVIA Germany](https://www.iqvia.com/de-de/locations/germany/solutions/real-world-evidence/nicht-interventionelle-studien), working with the Observational Studies team within the Epidemiology and Biostatistics unit.  I am also pursuing my doctoral studies at Leibniz Institute for Prevention Research and Epidemiology - BIPS. My PhD research focuses on thyroid disorders and their trends in Germany using the data from the German health insurance claims database - [German Pharmacoepidemiological Research Database (GePaRD)](https://www.bips-institut.de/en/research/research-infrastructures/gepard.html). 
 
 My research interests are cancer epidemiology, public health, and pharamacoepidemiology.
 
